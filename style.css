@@ -1,0 +1,85 @@
+*{
+    box-sizing: border-box;
+}
+
+#signup {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+#container {
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+#container1 {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+}
+
+#container2 {
+    position: relative;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+#control {
+    padding: 10px 10px;
+    margin: 5px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    display: block;
+    width: 100%;
+    
+}
+#container5 {
+    position: relative;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+#button1 {
+    background-color: rgb(16, 218, 245);
+    border: 1px solid rgb(16, 218, 245);
+    color: white;
+    border-radius: 5px;
+    display: block;
+    padding: 10px 10px;
+    margin: 5px;
+    cursor: pointer;
+    width: 100%;
+}
+#button2 {
+    background-color: rgb(16, 245, 111);
+    border: 1px solid rgb(16, 245, 111);
+    color: white;
+    border-radius: 5px;
+    display: block;
+    padding: 10px 10px;
+    margin: 5px;
+    cursor: pointer;
+    width: 100%;
+}
+#agree {
+    padding: 10px 10px;
+    margin: 5px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    display: block;
+}
+#iagree {
+    font-weight: bold;
+    margin: 5px;
+    margin-right: 50px;
+}
+#term {
+    color:rgb(0, 102, 255);
+ }
